@@ -1,3 +1,4 @@
+
 """
 This script demonstrates basic Python concepts including print statements, string concatenation, 
 user input, and variable usage. It is structured as follows:
